@@ -29,7 +29,7 @@
 ## 🌟 GitHub Trophy (Animated)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Youssef1234&theme=algolia&no-frame=true&row=1&column=6&animate=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=YoussefTarekElmalwany&theme=algolia&no-frame=true&row=1&column=6&animate=true" />
 </p>
 
 ---
@@ -37,7 +37,7 @@
 ## 📊 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef1234&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefTarekElmalwany&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" />
 </p>
 
 ---
