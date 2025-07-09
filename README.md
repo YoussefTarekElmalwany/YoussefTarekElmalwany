@@ -10,9 +10,9 @@
 
 ### 💫 About Me
 - 👦 I’m a 13-year-old self-taught **Front-End Developer**
-- 💻 I build modern websites using **React, Tailwind, Bootstrap**
-- 🎯 My goal is to become a pro freelancer & web entrepreneur
-- 🌱 Always learning and improving every single day
+- 💻 I build responsive and modern websites using **HTML, CSS, JS, React, and Tailwind**
+- 🎯 My goal is to become a professional freelancer & entrepreneur in tech
+- 🌱 Always learning and building awesome stuff
 
 ---
 
@@ -24,18 +24,21 @@
 
 ---
 
-### 📈 My GitHub Activity
+### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Youssef1234&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Youssef1234&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Youssef1234&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Youssef1234&theme=tokyo-night&area=true" />
 </p>
 
 ---
 
-### 📬 Contact Me
+### 📫 Contact Me
+
 <p align="center">
-  <a href="mailto:youssef@email.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://t.me/yourusername"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="mailto:youssef@email.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/youssef-linkedin/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
