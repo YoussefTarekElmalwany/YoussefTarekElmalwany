@@ -4,48 +4,30 @@
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Front-End+Developer;React+Lover;Self-Taught+Programmer;Learning+Every+Day+🚀" alt="Typing SVG" />
 
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" />
-
 </div>
 
 ---
 
 ## 🧠 About Me  
-- 🔭 I’m currently working on front-end projects  
-- 🌱 I’m learning React & TypeScript  
-- 👯 I’m looking to collaborate on web apps  
-- ⚡ Fun fact: I love coding and creating content!
+- 👦 I'm a 13-year-old self-taught **Front-End Developer**  
+- 💻 I build modern, responsive websites  
+- 🚀 Currently learning **React & Tailwind**  
+- 🎯 My dream is to become a full-time freelancer
 
 ---
 
-## 🛠️ Languages & Tools
+## 🖼️ A Peek Into My Work Vibes
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,github,vscode,git" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" />
 </p>
 
 ---
 
-## 🌟 GitHub Trophy (Animated)
+## 🛠️ My Tech Stack
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YoussefTarekElmalwany&theme=algolia&no-frame=true&row=1&column=6&animate=true" />
-</p>
-
----
-
-## 📊 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefTarekElmalwany&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" />
-</p>
-
----
-
-## ✨ GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Youssef1234&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react,git,github,vscode" />
 </p>
 
 ---
