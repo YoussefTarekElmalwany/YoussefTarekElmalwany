@@ -1,8 +1,13 @@
-<h1 align="center">
-  Hi 👋, I'm Youssef
-  <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00C2FF&width=435&lines=Front-End+Developer;Self-Taught+Programmer;Learning+Every+Day+🚀" alt="Typing SVG" />
-</h1>
+<div align="center">
+
+  <h1>Hi 👋, I'm Youssef</h1>
+
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00C2FF&width=435&lines=Front-End+Developer;Self-Taught+Programmer;Learning+Every+Day+🚀" 
+    alt="Typing SVG" 
+  />
+
+</div>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
