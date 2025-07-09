@@ -1,17 +1,49 @@
+<div align="center">
 
+  <h1>Hi 👋, I'm Youssef</h1>
 
-  <h1 align="center">Hi 👋, I'm Youssef</h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=435&lines=Front-End+Developer;Self-Taught+Programmer;Learning+Every+Day+🚀" alt="Typing SVG" />
 
-  <img align="center"
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00C2FF&width=435&lines=Front-End+Developer;Self-Taught+Programmer;Learning+Every+Day+🚀" 
-    alt="Typing SVG" 
-  />
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/youssef-tarek~" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="youssef-tarek~" height="30" width="40" /></a>
+---
+
+### 💫 About Me:
+- 🧠 I’m a self-taught **Front-End Developer**
+- 📚 Currently learning **React** and advanced JavaScript
+- 🔭 I’m working on awesome personal projects
+- 🎯 Goal: Become a professional freelancer & tech entrepreneur
+- ⚡ Fun fact: I’m only 12 and I code like a pro 😎
+
+---
+
+### 🛠️ Languages and Tools:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,github,vscode" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Youssef1234&show_icons=true&theme=tokyonight&hide_border=true" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Youssef1234&theme=tokyonight&hide_border=true" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef1234&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🐍 Contribution Snake:
+<p align="center">
+  <img src="https://github.com/Youssef1234/Youssef1234/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+### 📫 Contact Me:
+<p align="center">
+  <a href="mailto:youssef@email.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://t.me/yourusername"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+</p>
